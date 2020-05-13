@@ -10,6 +10,10 @@
 //      orange = southwest 
 //      purple = west
 
+//  Intiate connection to HTML
+
+d3.select(#scatter)
+
 // Much of this was modified from Youtube tutorials on d3 by Curran Kelleher
 
 // Initial assignments of values
